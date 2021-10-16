@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @arsenev-as
-- 👀 I’m interested in PHP, JavaScript, MySQL, HTML
+- 
+- I need job
+- I agree to a salary of 700 dollars a month
+-
+-  👀 I’m interested in PHP, JavaScript, MySQL, HTML
 - 🌱 I’m currently learning PHP, JavaScript, MySQL, HTML
 - 📫 How to reach me arsenev-as@yandex.ru
 
